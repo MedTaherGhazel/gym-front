@@ -1,4 +1,4 @@
-export interface Programs {
+export interface HousingLocation {
   id: number;
   name: string;
   city: string;
